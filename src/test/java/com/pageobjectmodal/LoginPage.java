@@ -1,5 +1,5 @@
 package com.pageobjectmodal;
 
-public class LoginModule {
+public class LoginPage {
 
 }
